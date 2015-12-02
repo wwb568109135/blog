@@ -1,3 +1,6 @@
+> http://wwb568109135.github.io/blog/index.html
+> http://wwb568109135.github.io/blog/list2.html
+
 > 2015/09/30 JS 总结笔记
 
 
